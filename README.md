@@ -20,7 +20,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 
 |  Nome  |  Descrição  |  Contribuidores  |  Link Acesso  | 
 | ------ | ------ | ------ | ------ |
-| Assembly | Aprenda sobre a linguagem mais interessante para Engenharia Reversa. | [who](site perfil) | [Clique aqui ➡️](site) |
+| Assembly | Engenharia Reversa? aqui é o começo de tudo | [who](site perfil) | [Clique aqui ➡️](site) |
 | Bash | Aprenda a linguagem de script básica do seu sistema UNIX. | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
 | C | Entendendo o básico para começar a programar na linguagem C. | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
 | C++ | Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos. | [who](site perfil) | [Clique aqui ➡️](https://github.com) |
@@ -44,3 +44,42 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Typescript | Adicione tipagem estática ao seu código Javascript. | [who](site perfil) | [Clique aqui ➡️](https://github.com) |
 | Haskell | Único roadmap de Haskell possível, do noob ao Thanos. | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
 | Kotlin | Tutorial de Kotlin para iniciantes na linguagem. | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
+
+
+### 🎨 Design
+
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| UI | Tutorial tem como objetivo principal apresentar e ensinar o básico do UI Design, de uma maneira completa e acessível para todos. | [who](site perfil)  | [Clique aqui ➡️](https://github.com/) |
+| UX | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do UX Design, de uma maneira completa e acessível para todos. |[who](site perfil)| [Clique aqui ➡️](https://github.com/) |
+| Figma | Não sabe nada de Figma? comece por aqui | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
+
+
+### 🎲 Banco de dados 
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| MySQL | Aprenda a manipular o banco de dados no MySQL | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
+| MongoDB | Aprenda a manipular o banco de dados noSQL MongoDB | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
+| PostgreSQL | Aprenda a manipular o banco de dados no PostgreSQL | [who](site perfil) | [Clique aqui ➡️](https://github.com/rohlacanna/postgresql4noobs) |
+<!---| MySQL | Aprenda a manipular o banco de dados no MySQL| [who](site perfil) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| SQL | Aprenda de uma vez por todas a escrever SQL. | [who](site perfil) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+
+
+### ☁️ Cloud
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| Google Cloud Platform | Introdução aos serviços da Google Cloud Platform | [who](site perfil) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |-->
+
+### 📌 Paradigmas de programação
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| POO | Aprenda o básico sobre programação orientada a objetos | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
+
+<a href="https://github.com/he4rt/4noobs/commits/master">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
+</a>
+
+---
+
+<p align="center"><strong> Para pequenos gafanhotos 💜 se tornarem jedis</strong></p>
+
