@@ -22,7 +22,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | Assembly | Aprenda sobre a linguagem mais interessante para Engenharia Reversa. | [who](site perfil) | [Clique aqui ➡️](site) |
 | Bash | Aprenda a linguagem de script básica do seu sistema UNIX. | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
-| C | Entendendo o básico para começar a programar na linguagem C. | [who](site perfil) - [Paulo Rievrs Oliveira](https://github.com/) | [Clique aqui ➡️](https://github.com/) |
+| C | Entendendo o básico para começar a programar na linguagem C. | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
 | C++ | Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos. | [who](site perfil) | [Clique aqui ➡️](https://github.com) |
 | C# | A ideia é passar aos iniciantes conhecimentos básicos da maneira mais simples possível. | [who](site perfil) | [Clique aqui ➡️](https://github.com) |
 | CSS | Ensinar o básico de CSS para você poder aplicar os conhecimentos para estilizar páginas e websites com qualidade. | [who](site perfil) | [Clique aqui ➡️](https://github.com/) |
